@@ -1,5 +1,8 @@
 ### A shooting game based on awt in java and mediator pattern.
 
+#### Architecture
+![Architecture](./imgs/project.jpg)
+
 #### Overivew
 
 ![Overivew](./imgs/overview.jpg)
